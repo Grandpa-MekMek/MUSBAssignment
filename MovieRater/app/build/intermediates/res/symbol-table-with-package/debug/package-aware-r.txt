@@ -646,10 +646,14 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
 id CTRL
+id ChineseLanguage
+id EnglishLanguage
 id FUNCTION
 id META
+id MalayLanguage
 id SHIFT
 id SYM
+id TamilLanguage
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -670,6 +674,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addBtn
 id alertTitle
 id all
 id always
@@ -684,6 +689,7 @@ id center_horizontal
 id center_vertical
 id chains
 id checkbox
+id checkboxCB
 id chronometer
 id clip_horizontal
 id clip_vertical
@@ -694,6 +700,7 @@ id custom
 id customPanel
 id decor_content_parent
 id default_activity_button
+id descriptionET
 id dimensions
 id direct
 id disableHome
@@ -717,6 +724,7 @@ id image
 id info
 id invisible
 id italic
+id languageUsedID
 id left
 id line1
 id line3
@@ -725,6 +733,7 @@ id list_item
 id message
 id middle
 id multiply
+id nameET
 id never
 id none
 id normal
@@ -738,6 +747,7 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id releaseDateET
 id right
 id right_icon
 id right_side
@@ -788,6 +798,7 @@ id topPanel
 id uniform
 id up
 id useLogo
+id violenceID
 id withText
 id wrap
 id wrap_content
@@ -876,9 +887,24 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string addMovieText
 string app_name
+string checkboxText
+string chineseRB
+string description
+string descriptionHint
+string englishRB
+string language
+string languageUsedText
+string malayRB
+string name
+string nameHintTitle
+string releaseDate
+string releaseDateHint
 string search_menu_title
 string status_bar_notification_info_overflow
+string tamilRB
+string violenceText
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

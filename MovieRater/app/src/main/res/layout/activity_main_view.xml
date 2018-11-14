@@ -24,7 +24,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/titleTV"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:layout_weight="0.05"
 
     />
@@ -38,7 +38,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/overviewTV"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:layout_weight="0.05"
     />
     <TextView
@@ -51,7 +51,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/languageTV"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:layout_weight="0.05"
     />
     <TextView
@@ -64,7 +64,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/release_dateTV"
-            android:textSize="18sp"
+            android:textSize="20sp"
 
             android:layout_weight="0.05"
     />
@@ -78,7 +78,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/suitableTV"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:layout_weight="0.05"
     />
 

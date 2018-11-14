@@ -12,6 +12,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/titleTV_rate"
+            android:textSize="18sp"
     />
     <RatingBar
             android:layout_width="wrap_content"
@@ -22,7 +23,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/reviewTV_rate"
-            android:inputType="textMultiLine"
             android:minLines="3"
             android:gravity="top"
     />

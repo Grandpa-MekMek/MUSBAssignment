@@ -76,8 +76,8 @@ class MainActivity : AppCompatActivity() {
                     languageUsed,
                     Toast.LENGTH_LONG
                 ).show()
-            }
 
+            }
         })
     }
 

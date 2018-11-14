@@ -15,4 +15,11 @@
     <string name="violenceText">Violence</string>
     <string name="languageUsedText">Language used</string>
     <string name="addMovieText">ADD MOVIE</string>
+    <string name="titleTV_rate">Enter your review for the movie : Venom</string>
+    <string name="reviewTV_rate">Share your view on the show</string>
+    <string name="titleTV_view">Title:</string>
+    <string name="overviewTV_view">Overview:</string>
+    <string name="languageTV_view">Language:</string>
+    <string name="release_date_view">Release date:</string>
+    <string name="suitableTV_view">Suitable for children below 13:</string>
 </resources>

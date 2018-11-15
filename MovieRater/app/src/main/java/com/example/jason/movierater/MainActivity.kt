@@ -12,16 +12,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var suitableForAllAge = "false"
         checkboxCB.setOnClickListener( {
             if (checkboxCB.isChecked == true) {
                 violenceID.visibility = View.VISIBLE
                 languageUsedID.visibility = View.VISIBLE
-                suitableForAllAge = "true"
             } else {
                 violenceID.visibility = View.INVISIBLE
                 languageUsedID.visibility = View.INVISIBLE
-                suitableForAllAge = "false"
             }
         })
 
@@ -70,7 +67,7 @@ class MainActivity : AppCompatActivity() {
                     "\nOverview = " + descriptionET.text +
                     "\nRelease date = " + releaseDateET.text +
                     "\nLanguage = " + language +
-                    "\nSuitable for all ages = " + suitableForAllAge +
+                    "\nSuitable for all ages = " + checkboxCB.isChecked +
                     "\nReason: \n" +
                     violence + "\n" +
                     languageUsed,
